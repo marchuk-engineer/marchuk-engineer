@@ -1,7 +1,7 @@
 <div>
-<div>
 <a align="center" ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=9E19BEFF&background=96C8FF00&random=false&width=435&lines=Hi%2C+I'm+Mykhailo+Marchuk" alt="Typing SVG" /></a>
 </div>
+<div>
 <div>
 <h2 align="center" style="font-family:verdana; color:#19beab;" >You can reach me at:</h2>
 <p align="center" style="font-family:verdana; color:#19beab;">Mail: mishaakamichael999@gmail.com</p>
