@@ -1,16 +1,60 @@
-### Hi there 👋
+<div>
+<div>
+<a align="center" ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=9E19BEFF&background=96C8FF00&random=false&width=435&lines=Hi%2C+I'm+Mykhailo+Marchuk" alt="Typing SVG" /></a>
+</div>
+<div>
+<h2 align="center" style="font-family:verdana; color:#19beab;" >You can reach me at:</h2>
+<p align="center" style="font-family:verdana; color:#19beab;">Mail: mishaakamichael999@gmail.com</p>
+<p align="center" style="font-family:verdana; color:#19beab;">Or</p>
+<p align="center"> 
+<a href="https://t.me/mishaakamichael999"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/mishaakamichael999/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<p align="center"></p>
+</div>
 
-<!--
-**mishaakamichael999/mishaakamichael999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center" style="font-family:verdana; color:#19beab;">Languages, frameworks and tools I work with:</h3>
+<p align="center">
+<a> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
+<a> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+</a>
+</p>
+<p align="center">
+<a> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+<a> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<a> <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a>
+<a> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"></a>
+</p>
+<p align="center">
+<a> <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white">
+</a>
+<a> <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white">
+</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+<a> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+</a>
+<a> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+</a>
+<a> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+</a>
+</p>
+
+
+
+<p align="center">
+<a> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+</a>
+<a> <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
+</a>
+<a> <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
+</a>
+</p>
+
+
+</div>
+
