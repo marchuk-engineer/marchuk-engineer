@@ -2,8 +2,8 @@
 <h2 align="center" style="font-family:verdana; color:#39dcc9;" >Hi, I'm Mykhailo Marchuk</h2>
 </div>
 <div>
-<div>
 
+<div>
 <p align="center" style="font-family:verdana; color:#19beab;" >You can reach me by:</p>
 <p align="center"> 
 <a href="mailto:mishaakamichael999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
