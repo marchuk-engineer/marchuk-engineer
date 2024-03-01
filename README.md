@@ -4,10 +4,9 @@
 <div>
 <div>
 
-<p align="center" style="font-family:verdana; color:#19beab;" >You can reach me at:</p>
-<p align="center" style="font-family:verdana; color:#19beab;">Mail: mishaakamichael999@gmail.com</p>
-<p align="center" style="font-family:verdana; color:#19beab;">Or</p>
+<p align="center" style="font-family:verdana; color:#19beab;" >You can reach me by:</p>
 <p align="center"> 
+<a href="mailto:mishaakamichael999@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://t.me/mishaakamichael999"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/mishaakamichael999/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <p align="center"></p>
