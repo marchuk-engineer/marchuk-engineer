@@ -1,9 +1,9 @@
 <div>
-<h2 align="center" ><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=9E19BEFF&background=96C8FF00&random=false&width=435&lines=Hi%2C+I'm+Mykhailo+Marchuk" alt="Typing SVG" /></h2>
+<h2 align="center" style="font-family:verdana; color:#39dcc9;" >Hi, I'm Mykhailo Marchuk</h2>
 </div>
 <div>
 <div>
-<h2 align="center" style="font-family:verdana; color:#19beab;" >You can reach me at:</h2>
+<p align="center" style="font-family:verdana; color:#19beab;" >You can reach me at:</p>
 <p align="center" style="font-family:verdana; color:#19beab;">Mail: mishaakamichael999@gmail.com</p>
 <p align="center" style="font-family:verdana; color:#19beab;">Or</p>
 <p align="center"> 
