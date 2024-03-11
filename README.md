@@ -1,7 +1,6 @@
 # 👨‍🚀 Heeey , I'm Mykhailo Marchuk
 # 💫 About Me:
 A passionate Java developer exploring the vast galaxies of software development. With my spacecraft set to Java, I navigate through the code cosmos, crafting elegant solutions and pushing the boundaries of what's possible.
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mishaakamichael999/)
 
