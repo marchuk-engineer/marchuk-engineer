@@ -1,5 +1,4 @@
 <br clear="both">
-
 <h1>👨‍🚀 Heeey 👋, I'm Mykhailo Marchuk</h1>
 
 ###
