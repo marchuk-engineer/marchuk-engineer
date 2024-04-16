@@ -3,7 +3,7 @@
 
 ###
 
-<h2 align="left">💫 About me</h2>
+<h2 align="left">💫 About me 🚀</h2>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<h2 align="left">🚀 I code with</h2>
+<h2 align="left">👨‍💻 I code with</h2>
 
 ###
 
@@ -82,12 +82,10 @@
  <img width="12" />
 </div>
 
-
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mishaakamichael999/count.svg?"  />
-</div>
+<h2 align="left">🧮 Algorithm's stats</h2>
 
 ###
-
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=mishaakamichael999&theme=dracula)](https://github.com/ignacio-cuadra/github-readme-codewars)
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn)
