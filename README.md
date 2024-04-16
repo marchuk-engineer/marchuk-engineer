@@ -88,4 +88,4 @@
 
 ###
 [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=mishaakamichael999&theme=dracula)](https://github.com/ignacio-cuadra/github-readme-codewars)
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn)
+![Leetcode Stats](https://leetcard.jacoblin.cool/mishaakamichael999?theme=unicorn)
